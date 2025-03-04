@@ -196,4 +196,20 @@
             </valueSetDefinition>
         </valueSet>
     </fields>
+    <recordTypes>
+        <fullName>Type</fullName>
+        <active>true</active>
+        <label>Type</label>
+        <picklistValues>
+            <picklist>Requirment_Assigned__c</picklist>
+            <values>
+                <fullName>No</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Yes</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+    </recordTypes>
 </CustomObject>
